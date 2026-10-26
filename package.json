@@ -131,5 +131,9 @@
   "resolutions": {
     "motion-dom": "12.23.12",
     "motion-utils": "12.23.6"
+  },
+  "overrides": {
+    "motion-dom": "12.23.12",
+    "motion-utils": "12.23.6"
   }
 }
