@@ -1,0 +1,18 @@
+{
+  "name": "Inspector Photo Report",
+  "short_name": "Photo Report",
+  "description": "Organize, annotate, and export inspection photos into professional Word reports.",
+  "start_url": "/photouploader/",
+  "scope": "/photouploader/",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#1e3a5f",
+  "icons": [
+    {
+      "src": "/photouploader/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
